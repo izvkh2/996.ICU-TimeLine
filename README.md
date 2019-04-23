@@ -2,6 +2,8 @@
 
 #### 微软雇员呼吁公司抵制 GitHub 审查压力
 
+> 随笔：致我那些爱泼冷水的朋友们 https://github.com/CPdogson/996action/blob/master/Essay.md
+
 > 美音: https://www.voachinese.com/a/microsoft-china-programmers-2019-04-23/4886828.html
 
 > ABC News: https://abcnews.go.com/Technology/wireStory/microsoft-workers-join-chinas-debate-grueling-workweek-62557182
