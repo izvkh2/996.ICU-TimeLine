@@ -30,6 +30,8 @@
 
 ## 2019/4/17
 
+#### 华为工程师 22 月无休后猝死
+
 > 美音：https://www.voachinese.com/a/voaweishi-20190416-voaio-alibaba-jack-ma-on-working-overtime/4878025.html
 
 > 推特用户：https://twitter.com/B3hq5KIAuWPeEAc/status/1118711754064789504  https://twitter.com/B3hq5KIAuWPeEAc/status/1118150730123075584  https://twitter.com/Chen_cicici/status/1117581440042987521
