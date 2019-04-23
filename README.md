@@ -21,3 +21,4 @@
 ## 2019/4/22
 
 > 纽约时报中文网: https://cn.nytimes.com/opinion/20190422/jack-ma-996/
+> https://github.com/996icu/996.ICU/pull/25696#issue-272217945
